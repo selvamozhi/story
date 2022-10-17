@@ -1,1 +1,1 @@
-chapter 3 is added.
+chapter 3 is added. We have added some text for checking merging and branching
